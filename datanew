@@ -1,0 +1,3 @@
+data(datanew)
+summary(datanew)
+str(datanew)
