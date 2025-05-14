@@ -5,3 +5,4 @@ y = rep(11, length(x))
 z = x+y
 a = rnorm(100)
 histogram_a = hist(a)
+hist(mtcars$mpg)
