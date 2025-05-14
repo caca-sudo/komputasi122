@@ -1,0 +1,5 @@
+Ini adalah percobaan membuat file baru di GitHub.
+print("Halo, ini percobaan pertemuan 9!")
+x = c(2,3,4,5,1)
+y = c(11, 11, 11, 11, 11)
+z = x+y
